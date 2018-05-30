@@ -1,8 +1,8 @@
 {
-  "token": "",
-  "priority": [],
-  "catch_rate": 100,
-  "delay": 2,
+  "token": ""NDA0NzgyMzc4ODYzNjg5NzI4.DfC13A.l_qI4uX4UQO-FArtbIoHx89qhwg"",
+  "priority": [Groudon,Rayquaza],
+  "catch_rate": 80,
+  "delay": 20,
   "delay_on_priority": true,
   "priority_only": false,
   "avoid_list": [],
